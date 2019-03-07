@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: CYLINDER
+Version: 1.0.4-5
+Section: Tweaks
+Maintainer: Exfoliate <omgitskunaiv3@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/CYLINDER.deb
+Size: 331
+MD5sum: 36ccf9eccde83b1a1dea0fba55299c68
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Cylinder
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://exfoliate.github.io/repo/depictions/?p=CYLINDER
